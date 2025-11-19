@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Direktori sumber file yang akan dibackup
-SOURCE_DIR="/home/rahmatnusi/project_file_management"
+SOURCE_DIR="/home/sasaskm/project_file_management"
 
 # Direktori tujuan backup
-BACKUP_DIR="/home/rahmatnusi/backup1"
+BACKUP_DIR="/home/sasaskm/backup1"
 
 # Membuat direktori backup jika belum ada
 mkdir -p "$BACKUP_DIR"
